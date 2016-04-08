@@ -1,0 +1,25 @@
+{
+  "name": "PIDParameters",
+  "description": "PID parameters",
+  "namespace": "@",
+  "fields": [
+    {
+      "name": "kp",
+      "description": "PID Gain",
+      "type": "FLOAT32",
+      "size": 1
+    },
+    {
+      "name": "ti",
+      "description": "Integral time",
+      "type": "FLOAT32",
+      "size": 1
+    },
+    {
+      "name": "td",
+      "description": "Derivative time",
+      "type": "FLOAT32",
+      "size": 1
+    }
+  ]
+}
