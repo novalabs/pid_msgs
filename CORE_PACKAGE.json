@@ -1,5 +1,5 @@
 {
   "name": "pid_msgs",
-  "namespace": "@",
-  "description": "PID messages"
+  "description": "PID messages",
+  "provider": "core"
 }
